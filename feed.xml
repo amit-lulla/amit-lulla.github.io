@@ -21,9 +21,7 @@ PODCAST DESCRIPTION TRIAL
 <itunes:email>amit.lulla@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:image href="https://amit-lulla.github.io/podcast-graphic_finaldraft-v1.jpg"/>
-<itunes:category text="Religion & Spirituality">
-<itunes:category text="Spirituality"></itunes:category>
-</itunes:category>
+<itunes:category text="Technology"></itunes:category>
 <item>
 <title>EPISODE TITLE TRIAL</title>
 <itunes:title>EPISODE TITLE TRIAL</itunes:title>
