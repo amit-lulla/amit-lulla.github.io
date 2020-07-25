@@ -41,7 +41,7 @@ EPISODE DESCRIPTION TRIAL
 </description>
 <itunes:image href="https://amit-lulla.github.io/podcast-graphic_finaldraft-v1.jpg"/>
 <enclosure url="https://amit-lulla.github.io/Dealing%20with%20Criticism.mp3" length="11849517" type="audio/mpeg"/>
-<itunes:duration>370.272</itunes:duration>
+<itunes:duration>00:06:10</itunes:duration>
 <itunes:season>SEASON #1</itunes:season>
 <itunes:episode>EPISODE #1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
@@ -49,7 +49,7 @@ EPISODE DESCRIPTION TRIAL
 https://amit-lulla.github.io/Dealing%20with%20Criticism.mp3
 </guid>
 <pubDate>25/07/2020</pubDate>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>no</itunes:explicit>
 </item>
 </channel>
 </rss>
