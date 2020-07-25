@@ -22,6 +22,7 @@ PODCAST DESCRIPTION TRIAL
 </itunes:owner>
 <itunes:image href="https://amit-lulla.github.io/podcast-graphic_finaldraft-v1.jpg"/>
 <itunes:category text="Technology"></itunes:category>
+<itunes:explicit>no</itunes:explicit>
 <item>
 <title>EPISODE TITLE TRIAL</title>
 <itunes:title>EPISODE TITLE TRIAL</itunes:title>
