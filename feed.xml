@@ -1,0 +1,57 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+<channel>
+<title>PODCAST TITLE TRIAL</title>
+<link>https://amit-lulla.github.io/</link>
+<language>en-us</language>
+<atom:link href="https://amit-lulla.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<copyright>Amit Lulla</copyright>
+<itunes:subtitle>PODCAST SUBTITLE TRIAL</itunes:subtitle>
+<itunes:author>PODCAST CREATOR TRIAL</itunes:author>
+<itunes:summary>
+PODCAST DESCRIPTION TRIAL
+</itunes:summary>
+<itunes:keywords>
+KEYWORD1,KEYWORD2,KEYWORD3,...
+</itunes:keywords>
+<description>
+PODCAST DESCRIPTION TRIAL
+</description>
+<itunes:owner>
+<itunes:name>PODCAST CREATOR</itunes:name>
+<itunes:email>amit.lulla@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://github.com/amit-lulla/amit-lulla.github.io/blob/master/podcast-graphic_finaldraft-v1.jpg"/>
+<itunes:category text="CATEGORY1"></itunes:category>
+<itunes:category text="CATEGORY2"></itunes:category>
+<itunes:category text="CATEGORY3"></itunes:category>
+<item>
+<title>EPISODE TITLE TRIAL</title>
+<itunes:title>EPISODE TITLE TRIAL</itunes:title>
+<itunes:author>PODCAST CREATOR TRIAL</itunes:author>
+<itunes:subtitle>
+EPISODE SUBTITLE TRIAL
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+EPISODE DESCRIPTION TRIAL
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+EPISODE DESCRIPTION TRIAL
+]]>
+</description>
+<itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+<enclosure url="https://github.com/amit-lulla/amit-lulla.github.io/blob/master/Dealing%20with%20Criticism.mp3" length="11849517" type="audio/mpeg"/>
+<itunes:duration>370.272</itunes:duration>
+<itunes:season>SEASON #1</itunes:season>
+<itunes:episode>EPISODE #1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://github.com/amit-lulla/amit-lulla.github.io/blob/master/Dealing%20with%20Criticism.mp3
+</guid>
+<pubDate>25/07/2020</pubDate>
+<itunes:explicit>NO</itunes:explicit>
+</item>
+</channel>
+</rss>
