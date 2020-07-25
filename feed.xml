@@ -22,7 +22,7 @@ PODCAST DESCRIPTION TRIAL
 </itunes:owner>
 <itunes:image href="https://amit-lulla.github.io/podcast-graphic_finaldraft-v1.jpg"/>
 <itunes:category text="Religion & Spirituality">
-  <itunes:category text="Spirituality"/>
+<itunes:category text="Spirituality"></itunes:category>
 </itunes:category>
 <item>
 <title>EPISODE TITLE TRIAL</title>
